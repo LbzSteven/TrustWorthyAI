@@ -13,7 +13,7 @@
 - ✅ Survey: A Survey of Adversarial Defences and Robustness in NLP (2022)（精读引言+分类+结论，扫中间方法） — 2h  
   https://arxiv.org/abs/2203.06414
 - ➖ NIST Adversarial ML 术语与分类（扫 taxonomy 表格） — 30min  
-  https://csrc.nist.gov/publications/detail/nistir/8269/draft
+  https://csrc.nist.gov/pubs/ai/100/2/e2023/final
 - 🕒 总计：~2.5h
 
 == Day 3｜NLP 早期方法
