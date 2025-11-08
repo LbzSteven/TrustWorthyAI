@@ -10,7 +10,7 @@
 背景：很多攻击方法代码风格各异、实现不透明、难以复现（特别是tokenization问题、评估不一致）。
 == 框架
 
-对NLP attack做了拆解
+对NLP attack做了拆解  goal function + set of constraints + transformation + search method
 - 一个目标函数 goal function （攻击是否成功的标准）
   - 比如：untargeted classification, targeted classification, non-overlapping output, minimum BLEU score.
 - 一组限制条件 set of constraints （扰动遵守的标准grammar constraint, semantic similarity constraint等）
